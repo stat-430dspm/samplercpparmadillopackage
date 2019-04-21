@@ -1,2 +1,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^samplercpparmadillopackage\.Rcheck$
+^samplercpparmadillopackage.*\.tar\.gz$
+^samplercpparmadillopackage.*\.tgz$

@@ -5,3 +5,6 @@
 src/*.o
 src/*.so
 src/*.dll
+samplercpparmadillopackage.Rcheck/
+samplercpparmadillopackage*.tar.gz
+samplercpparmadillopackage*.tgz
